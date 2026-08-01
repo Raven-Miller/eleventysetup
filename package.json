@@ -8,5 +8,6 @@
     "build": "eleventy",
     "start": "eleventy --serve",
     "type": "module"
-  }
+  },
+  "type": "module"
 }
